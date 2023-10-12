@@ -1,0 +1,23 @@
+#wrapper{
+    margin: 0 auto;
+    padding: 0;
+    width: 500px;
+    height: 200px;
+    border: groove goldenrod 3px;
+    border-radius: 10px;
+}
+#wrapper h1{
+    font-size: 20px;
+    margin-left: 20px;
+    float: left;
+}
+#wrapper img{
+    width: 150px;
+    height: 150px;
+    margin-left: 250px;
+    margin-top: 21px;
+}
+#wrapper blockquote{
+    margin-top: -60px;
+    margin-left: 15px;
+}
